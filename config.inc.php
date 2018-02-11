@@ -20,6 +20,7 @@ $cfg['blowfish_secret'] = '1EJJFHY5GDCFT6JU74DASWMVFR43SDCS'; /* YOU MUST FILL I
  * Servers configuration
  */
 $i = 0;
+$cfg['AllowArbitraryServer'] = true;
 
 /**
  * First server
